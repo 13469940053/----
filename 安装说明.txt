@@ -1,0 +1,15 @@
+
+
+请先删除install文件夹下的install.lock文件
+
+数据库文件可根据你的需求修改好
+
+
+再修改链接信息config.php
+
+修改文件：install/install.sql
+
+
+访问  你的域名/install  安装
+
+管理员/密码：admin/admin
